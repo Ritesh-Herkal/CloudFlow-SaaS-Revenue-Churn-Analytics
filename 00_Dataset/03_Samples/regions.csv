@@ -1,0 +1,9 @@
+RegionID,RegionName,Country,IsActive
+1,South India,India,True
+2,North India,India,True
+3,West India,India,True
+4,East India,India,True
+5,Central India,India,True
+6,North America,United States,True
+7,Europe,United Kingdom,True
+8,Asia Pacific,Singapore,True
