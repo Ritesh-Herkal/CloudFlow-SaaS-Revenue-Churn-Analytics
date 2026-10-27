@@ -1,0 +1,222 @@
+[
+    {
+        "PlanID": "PLAN001",
+        "PlanName": "Starter Monthly",
+        "PlanCategory": "Basic",
+        "BillingCycle": "Monthly",
+        "Price": 19.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-01-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN002",
+        "PlanName": "Starter Annual",
+        "PlanCategory": "Basic",
+        "BillingCycle": "Annual",
+        "Price": 199.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-01-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN003",
+        "PlanName": "Basic Monthly",
+        "PlanCategory": "Basic",
+        "BillingCycle": "Monthly",
+        "Price": 29.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-02-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN004",
+        "PlanName": "Basic Annual",
+        "PlanCategory": "Basic",
+        "BillingCycle": "Annual",
+        "Price": 299.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-02-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN005",
+        "PlanName": "Growth Monthly",
+        "PlanCategory": "Professional",
+        "BillingCycle": "Monthly",
+        "Price": 49.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-01-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN006",
+        "PlanName": "Growth Annual",
+        "PlanCategory": "Professional",
+        "BillingCycle": "Annual",
+        "Price": 499.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-01-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN007",
+        "PlanName": "Professional Monthly",
+        "PlanCategory": "Professional",
+        "BillingCycle": "Monthly",
+        "Price": 79.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-03-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN008",
+        "PlanName": "Professional Annual",
+        "PlanCategory": "Professional",
+        "BillingCycle": "Annual",
+        "Price": 799.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-03-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN009",
+        "PlanName": "Business Monthly",
+        "PlanCategory": "Enterprise",
+        "BillingCycle": "Monthly",
+        "Price": 149.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-01-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN010",
+        "PlanName": "Business Annual",
+        "PlanCategory": "Enterprise",
+        "BillingCycle": "Annual",
+        "Price": 1499.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-01-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN011",
+        "PlanName": "Enterprise Monthly",
+        "PlanCategory": "Enterprise",
+        "BillingCycle": "Monthly",
+        "Price": 299.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-04-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN012",
+        "PlanName": "Enterprise Annual",
+        "PlanCategory": "Enterprise",
+        "BillingCycle": "Annual",
+        "Price": 2999.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2024-04-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN013",
+        "PlanName": "Legacy Basic Monthly",
+        "PlanCategory": "Basic",
+        "BillingCycle": "Monthly",
+        "Price": 14.99,
+        "Currency": "USD",
+        "IsActive": false,
+        "EffectiveStartDate": "2022-01-01",
+        "EffectiveEndDate": "2024-01-31"
+    },
+    {
+        "PlanID": "PLAN014",
+        "PlanName": "Legacy Basic Annual",
+        "PlanCategory": "Basic",
+        "BillingCycle": "Annual",
+        "Price": 149.99,
+        "Currency": "USD",
+        "IsActive": false,
+        "EffectiveStartDate": "2022-01-01",
+        "EffectiveEndDate": "2024-01-31"
+    },
+    {
+        "PlanID": "PLAN015",
+        "PlanName": "Legacy Growth Monthly",
+        "PlanCategory": "Professional",
+        "BillingCycle": "Monthly",
+        "Price": 39.99,
+        "Currency": "USD",
+        "IsActive": false,
+        "EffectiveStartDate": "2022-06-01",
+        "EffectiveEndDate": "2024-02-29"
+    },
+    {
+        "PlanID": "PLAN016",
+        "PlanName": "Legacy Growth Annual",
+        "PlanCategory": "Professional",
+        "BillingCycle": "Annual",
+        "Price": 399.99,
+        "Currency": "USD",
+        "IsActive": false,
+        "EffectiveStartDate": "2022-06-01",
+        "EffectiveEndDate": "2024-02-29"
+    },
+    {
+        "PlanID": "PLAN017",
+        "PlanName": "Team Monthly",
+        "PlanCategory": "Professional",
+        "BillingCycle": "Monthly",
+        "Price": 99.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2025-01-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN018",
+        "PlanName": "Team Annual",
+        "PlanCategory": "Professional",
+        "BillingCycle": "Annual",
+        "Price": 999.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2025-01-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN019",
+        "PlanName": "Scale Monthly",
+        "PlanCategory": "Enterprise",
+        "BillingCycle": "Monthly",
+        "Price": 499.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2025-06-01",
+        "EffectiveEndDate": null
+    },
+    {
+        "PlanID": "PLAN020",
+        "PlanName": "Scale Annual",
+        "PlanCategory": "Enterprise",
+        "BillingCycle": "Annual",
+        "Price": 4999.99,
+        "Currency": "USD",
+        "IsActive": true,
+        "EffectiveStartDate": "2025-06-01",
+        "EffectiveEndDate": null
+    }
+]
