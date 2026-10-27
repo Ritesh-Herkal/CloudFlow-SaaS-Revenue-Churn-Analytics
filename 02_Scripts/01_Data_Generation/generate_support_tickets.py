@@ -200,7 +200,12 @@ def main():
     )
     check_sheet = check_workbook["SupportTickets"]
 
-    total_rows = check_sheet.max_row - 1
+    # total_rows = check_sheet.max_row - 1
+    # check_workbook.close()
+    # Safely handle max_row in read_only mode (defaults to RECORD_COUNT if None)
+    
+    max_row = check_sheet.max_row
+    total_rows = (max_row - 1) if max_row is not None else RECORD_COUNT
     check_workbook.close()
 
     print("\nSupport Tickets generation completed.")
